@@ -14,6 +14,11 @@ A simple hotel reservation system in Java that manages rooms, users and bookings
 
 ---
 
+## Architecture Diagram
+
+![Hotel Reservation System - Class Diagram](docs/class-diagram.png)
+
+
 ## Run
 
 Compile and run from repository root:
