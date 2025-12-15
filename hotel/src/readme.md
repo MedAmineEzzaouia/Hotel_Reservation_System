@@ -18,12 +18,15 @@ A simple hotel reservation system in Java that manages rooms, users and bookings
 
 ![Hotel Reservation System - Class Diagram](docs/class-diagram.png)
 
+This diagram illustrates the core domain model and the relationships between
+rooms, users, bookings and the service layer.
+
 
 ## Run
 
 Compile and run from repository root:
 
-```bash
+```
 javac -d out hotel/src/*.java
 java -cp out hotel.Main
 ```
